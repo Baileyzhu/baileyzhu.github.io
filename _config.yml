@@ -15,8 +15,8 @@ title                    : "Bailey Zhu"
 title_separator          : "-"
 subtitle                 : "Personal Portfolio"
 name                     : &name "Bailey Zhu" # &name is a YAML anchor which can be *referenced later
-description              : &description "Example website for class "
-url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Bailey Zhu's personal portfolio"
+url                      : https://baileyzhu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+    - "https://www.instagram.com/baileyz05"
 
 # Analytics
 analytics:
@@ -97,7 +97,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
+  avatar           : "assets/img/Bailey_Yellowstone.jpg"
   bio              : "Pre-dental student who likes to make things "
   location         : "Nashville, TN"
   links:
@@ -106,7 +106,7 @@ author:
       url: "https://github.com/DrD-Flo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/baileyz05"
 
 
 # Site Footer
@@ -117,7 +117,7 @@ footer:
       url: "https://github.com/DrD-Flo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/dr.dflo"
+      url: "https://www.instagram.com/baileyz05"
 
 
 # Reading Files
