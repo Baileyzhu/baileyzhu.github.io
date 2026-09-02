@@ -6,13 +6,11 @@ title: "About David Florian"
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. Bailey is always outfitted with new subjects of interest. She is currently trying on additive manufacturing, boxing, and oral surgery. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BA in Medicine, Health and Society.
+  * Minor in Digital Fabrication
 
 ## Technical Skills
 
