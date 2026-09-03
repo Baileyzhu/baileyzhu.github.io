@@ -21,7 +21,7 @@ feature_row:
     excerpt: "Laser-cut gear with lots of swirls."    
     
   - image_path: assets/img/Wooden_gnome.png
-    title: "Wooden figurines"
+    title: "Wooden Figurines"
     excerpt: "Miniature figurines hand-whittled out of basswood."
 ---
 
