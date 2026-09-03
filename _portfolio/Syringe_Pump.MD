@@ -2,12 +2,12 @@
 title: "Syringe Pump"
 excerpt: "Syringe pump designed to eject fluid at fixed rate."
 header:
-  image: /assets/img/syringe_pump_IRL.jpg
+  image: /assets/img/Syringe_Pump_IRL.jpg
   teaser: /assets/img/syringe_pump_rendering.png
 gallery:
-  - image_path: assets/img/Syringe_Pump_rendering.png
-  - image_path: assets/img/syringe_pump_wiring_diagram.png
-  - image_path: assets/img/Syringe_pump_petgpartiers.png
+  - image_path: assets/img/syringe_pump_rendering.png
+  - image_path: assets/img/Syringe_pump_wiring_diagram.png
+  - image_path: assets/img/syringe_pump_petgpartiers.png
    
 ---
 
