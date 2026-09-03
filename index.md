@@ -10,18 +10,19 @@ header:
       url: "/portfolio/"
 excerpt: "Bailey Zhu is a future dentist who is interested in the world of CAM. She hopes to one day be a pioneer in the growing field of Digital Dentistry."
 feature_row:
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
+  - image_path: assets/img/syringe_pump_rendering.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
     excerpt: "Handmade syringe pump designed to eject liquid at fixed rate."
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "Laser-cut gear with lots of swirls"
-    title: "Extravagant Gear"
-    excerpt: "Extravagantly swirly gear"    
     
-  - image_path: assets/img/Zidex-Thumbnail.jpg
+  - image_path: assets/img/HMAA_Gear.png
+    alt: "Extravagantly swirly gear"
+    title: "Extravagant Gear"
+    excerpt: "Laser-cut gear with lots of swirls."    
+    
+  - image_path: assets/img/Wooden_gnome.png
     title: "Wooden figurines"
-    excerpt: "Miniature figurines hand-whittled out of basswood"
+    excerpt: "Miniature figurines hand-whittled out of basswood."
 ---
 
 {% include feature_row %}
