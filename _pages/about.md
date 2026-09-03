@@ -38,4 +38,4 @@ Bailey's technical skills are a work in progress.
 In high school, Bailey spent 400+ hours researching avian physiology and mechanosensation with the Schneider Lab at the University of Kentucky. She co-authored an [avian neurophysiology paper](https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2022.921657/full).
 
 ![Bailey Zhu](/assets/img/BHZ_caliper.jpeg)
-
+*Starting with the basics: mastering a digital caliper.*
