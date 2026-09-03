@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "Motorized syringe pump designed to eject fluid at fixed rate."
+excerpt: "Motorized syringe pump designed to move fluid at fixed rate."
 header:
   image: assets/img/Syringe_Pump_IRL.png
   teaser: assets/img/syringe_pump_rendering.png
