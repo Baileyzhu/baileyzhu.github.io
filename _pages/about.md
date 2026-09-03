@@ -13,10 +13,10 @@ Bailey is always outfitted with new subjects of interest. She is currently tryin
   * Minor in Digital Fabrication
 
 ## Work Experience
-Bailey has 4 years of barista experience at various locations, yet her favorite drink is still an Americano. Bailey has worked at:
+Bailey has 4 years of barista experience at various locations, yet her favorite espresso drink is still an Americano. Bailey has worked at:
   * Suzie's Food for Thought Cafe; Nashville, TN
   * Crank and Boom Craft Ice Cream; Lexington, KY
-  * Martine's Pastries, Lexington; KY
+  * Martine's Pastries; Lexington, KY
   * Coffee Times Coffee House; Lexington, KY
     
 ## Technical Skills
