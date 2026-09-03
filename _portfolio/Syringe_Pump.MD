@@ -40,12 +40,12 @@ gallery:
 | End-Support | PLA | Stabilizes the far end of the linear rods and lead screw. |
 | Enclosure Assembly | PLA | Includes the main box, lid, shelf insert, and v-slot holder to house and protect electronics. |
 
-#Arduino Code
+# Arduino Code
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281115024c78543613a4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-#Operation Instructions
+# Operation Instructions
   1. Plug the power supply into a 120V outlet to power the system.  
   1. Press the latching button to activate the pump; the front panel LED will turn green to indicate it is running.  
   1. Observe the fluid dispensing, and adjust the flow rate as needed via the potentiometer or by modifying the code variables.  
