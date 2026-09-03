@@ -13,7 +13,7 @@ gallery:
 
 # Features
 
-* **Regulated Fluid Delibvery: 1140 x 1200 x 1100 mm.** 0.1 to 5 mL/min. The syringe pump converts the rotational motion of a stepper motor into linear displacement via a lead screw, ensuring highly accurate and consistent fluid transfer.
+* **Regulated Fluid Delivery** 0.1 to 5 mL/min. The syringe pump converts the rotational motion of a stepper motor into linear displacement via a lead screw, ensuring highly accurate and consistent fluid transfer.
 * **Versatile Syringe Compatibility** 10 mL and 20 mL. The physical carriage and end supports are designed to securely clamp standard 10 mL and 20 mL syringes, while the software can be configured to accommodate other diameters.
 * **Protective 3D-Printed Enclosure** A custom-designed enclosure houses all electronic components, leaving minimal openings only for the buttons and LED to protect the wiring from accidental fluid exposure and ensure user safety.
 
