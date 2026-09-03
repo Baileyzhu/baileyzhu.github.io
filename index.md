@@ -11,16 +11,16 @@ header:
 excerpt: "Bailey Zhu is a future dentist who is interested in the world of CAM. She hopes to one day be a pioneer in the growing field of Digital Dentistry."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+    alt: "Incentive Spirometer"
+    title: "Incentive Spirometer"
+    excerpt: "Specialized spirometer for tracheostomy patients"
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+    alt: "Syringe Pump"
+    title: "Syringe Pump"
+    excerpt: "Handmade syringe pump designed to eject liquid at fixed rate."
   - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    title: "Wooden figurines"
+    excerpt: "Miniature figurines hand-whittled out of basswood"
 ---
 
 {% include feature_row %}
