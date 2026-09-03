@@ -17,8 +17,8 @@ feature_row:
     
   - image_path: assets/img/HMAA_Gear.png
     alt: "Extravagantly swirly gear"
-    title: "Extravagant Gear"
-    excerpt: "Laser-cut gear with lots of swirls."    
+    title: "Extravagant Coaster"
+    excerpt: "Coaster with laser-cut gears and lots of swirls."    
     
   - image_path: assets/img/Wooden_gnome.png
     title: "Wooden Figurines"
