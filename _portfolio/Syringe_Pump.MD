@@ -43,7 +43,7 @@ gallery:
 # Arduino Code
 [Click to view Arduino code](https://github.com/Baileyzhu/Syringe_Pump_ArduinoCode/blob/main/Syringe_Pump_ArduinoCode.ino)
 
-# CAD Model
+# Interactive CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281115024c78543613a4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Operation Instructions
