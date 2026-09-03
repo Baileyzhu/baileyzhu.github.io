@@ -18,6 +18,6 @@ gallery:
 * **Protective 3D-Printed Enclosure** A custom-designed enclosure houses all electronic components, leaving minimal openings only for the buttons and LED to protect the wiring from accidental fluid exposure and ensure user safety.
 
 # CAD Model
-<iframe src="https://myhub.autodesk360.com/ue2df0af5/shares/public/SH35dfcQT936092f0e437224cd558fdcdc2f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281115024c78543613a4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Syringe Pump Gallery" %}
