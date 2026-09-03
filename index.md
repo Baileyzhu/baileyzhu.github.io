@@ -13,7 +13,7 @@ feature_row:
   - image_path: assets/img/syringe_pump_rendering.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
-    excerpt: "Handmade syringe pump designed to eject liquid at fixed rate."
+    excerpt: "Motorized syringe pump designed to move liquid at fixed rate."
     
   - image_path: assets/img/HMAA_Gear.png
     alt: "Extravagantly swirly gear"
