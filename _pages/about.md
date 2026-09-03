@@ -11,6 +11,7 @@ Bailey is always outfitted with new subjects of interest. She is currently tryin
 * Vanderbilt University
   * BA in Medicine, Health and Society
   * Minor in Digital Fabrication
+    * Expected graduation May 2027
 
 ## Work Experience
 Bailey has 4 years of barista experience at various locations, yet her favorite espresso drink is still an Americano. Bailey has worked at:
