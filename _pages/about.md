@@ -22,7 +22,6 @@ Bailey has 4 years of barista experience at various locations, yet her favorite 
     
 ## Technical Skills
 
-Bailey's technical skills are a work in progress. 
 * Digital Fabrication skills
   * Computer Aided Design (CAD) and Manufacturing (CAM)
   * Fused Filament Fabrication (FFF)
