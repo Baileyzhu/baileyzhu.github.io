@@ -1,13 +1,13 @@
 ---
 title: "Syringe Pump"
-excerpt: "Syringe pump designed to eject liquid at fixed rate."
+excerpt: "Syringe pump designed to eject fluid at fixed rate."
 header:
-  image: /assets/img/LF3DP-Banner-2.jpg
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
+  image: /assets/img/syringe_pump_IRL.jpg
+  teaser: /assets/img/syringe_pump_rendering.png
 gallery:
-  - image_path: assets/img/Syringe_Pump_IRL.png
-  - image_path: assets/img/Syringe_wiring_diagram.png
-  - image_path: assets/img/Syringe_petgpartiers.png
+  - image_path: assets/img/Syringe_Pump_rendering.png
+  - image_path: assets/img/syringe_pump_wiring_diagram.png
+  - image_path: assets/img/Syringe_pump_petgpartiers.png
    
 ---
 
