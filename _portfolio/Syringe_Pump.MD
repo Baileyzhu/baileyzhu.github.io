@@ -57,10 +57,10 @@ gallery:
 
 # Operation Instructions
   1. Plug the power supply into a 120V outlet to power the system.  
-  1. Press the latching button to activate the pump; the front panel LED will turn green to indicate it is running.  
-  1. Observe the fluid dispensing, and adjust the flow rate as needed via the potentiometer or by modifying the code variables.  
-  1. Press the latching button again to pause the pump (indicated by a yellow LED), or wait for the syringe to empty, which will trigger the limit switch and stop the motor automatically (indicated by a red LED).  
-  1. Press the latching button once more to turn off the pump, then reset the syringe to repeat the process.  
+  2. Press the latching button to activate the pump; the front panel LED will turn green to indicate it is running.  
+  3. Observe the fluid dispensing, and adjust the flow rate as needed via the potentiometer or by modifying the code variables.  
+  4. Press the latching button again to pause the pump (indicated by a yellow LED), or wait for the syringe to empty, which will trigger the limit switch and stop the motor automatically (indicated by a red LED).  
+  5. Press the latching button once more to turn off the pump, then reset the syringe to repeat the process.  
 
 ---
 
