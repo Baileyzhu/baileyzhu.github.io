@@ -10,34 +10,26 @@ gallery:
   - image_path: assets/img/syringe_pump_petgpartiers.png
    
 ---
-
+# Introduction
 After plenty of experience 3D printing single-material models, the next step for me was to try out multi-material printing. A perk of using multiple materials in the same model is a pairing of flexible and stiff material, which unlocks an abundance of new possibilities for my prints. I was most interested in movement, specifically how multi-material methods could be used to make functional moving parts. The result: a set of pliers, functional straight from the print bed without need for additional parts. After all, what better way is there to use a tool (3D printing) than to make another tool (pliers)? 
 ---
-# Off-the-Shelf Parts
-
-| Component | Description |
-| :--- | :--- |
-| Stepper Motor & Driver | Drives the lead screw mechanism; utilizes microstepping (set to 8) for smooth motion. |
-| Arduino & Breadboard | Commands the system using the AccelStepper library. |
-| Lead Screw & Linear Rods | 8mm pitch lead screw and press-fit linear bearings for stable carriage travel. |
-| Power Supply | 120V power supply to operate the system. |
-| Aluminum Extrusion | Serves as the foundational rail for the linear motion assembly. |
-| Electronic Controls | Latching button, limit switch, potentiometer, and two jog buttons. |
-| RGB LED | Indicates system status (green, yellow, red). |
-| Fasteners & Wiring | Assorted screws, bolts, heat shrink tubing, and jumper wires. |
-
+# Description
+Print-in-place models allow for parts with multiple moving components to be printed in one print bed. These models can function without needing extra tools for assembly, like adhesives or fasteners. Their function relies on precise, intentional designs of joints. In fact, print-in-place methods can be used to create mechanical joints, specifically [vertical pin-and-socket hinges, horizontal teardrop hinges, and articulated chain links and captive ball-and-socket joints](https://www.sovol3d.com/blogs/news/print-in-place-3d-printing-how-to-design-hinges-joints-and-moving-parts-that-actually-work?srsltid=AU7gw4WqwzSwKkkUHQEHuxtbEeprpD8fcKD_IyCgyrs_g_O89oKhagXK). The combination of flexible and stiff materials can also be utilized to create movement in the model. Certain pairings can optimize multi-material printing, such as pairings chosen to minimize cross-material bonding like PETG and PLA.  In the case of the pliers, I chose to use PLA for my stiff elements and TPU for my flexible elements. 
 ---
 
-# 3D Printed Parts
+# Specifications
+## Jaw measurements
 
-| Part Name | Material | Function |
-| :--- | :--- | :--- |
-| Motor-Mounting-Plate | ABS | Secures the motor; printed in ABS due to heat contact. |
-| Carriage | PLA | Travels along the lead screw to push the plunger. |
-| Syringe-End-Support | PLA | Clamps the 10 mL or 20 mL syringe securely in place. |
-| End-Support | PLA | Stabilizes the far end of the linear rods and lead screw. |
-| Enclosure Assembly | PLA | Includes the main box, lid, shelf insert, and v-slot holder to house and protect electronics. |
+The jaws are approximately 50 mm long, and can open up to 5.5 mm. The entire plier is roughly 100 mm long when resting.
 
+| Setting | PLA | TPU |
+|---|---:|---:|
+| Print width (mm) | 0.6 | 0.6 |
+| Bed temperature (°C) |  |  |
+| Print temperature (°C) |  |  |
+| Bottom and top solid layers |  |  |
+| Infill (%) | 20 | 50 |
+| Infill pattern | Gyroid | Gyroid |
 ---
 
 # Arduino Code
