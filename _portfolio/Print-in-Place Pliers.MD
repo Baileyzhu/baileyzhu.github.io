@@ -11,30 +11,23 @@ gallery:
    
 ---
 # Introduction
-After plenty of experience 3D printing single-material models, the next step for me was to try out multi-material printing. A perk of using multiple materials in the same model is a pairing of flexible and stiff material, which unlocks an abundance of new possibilities for my prints. I was most interested in movement, specifically how multi-material methods could be used to make functional moving parts. The result: a set of pliers, functional straight from the print bed without need for additional parts. After all, what better way is there to use a tool (3D printing) than to make another tool (pliers)? 
----
+  After plenty of experience 3D printing single-material models, the next step for me was to try out multi-material printing. A perk   of using multiple materials in the same model is a pairing of flexible and stiff material, which unlocks an abundance of new         possibilities for my prints. I was most interested in movement, specifically how multi-material methods could be used to make        functional moving parts. The result: a set of pliers, functional straight from the print bed without need for additional parts.      After all, what better way is there to use a tool (3D printing) than to make another tool (pliers)? 
+--
 # Description
-Print-in-place models allow for parts with multiple moving components to be printed in one print bed. These models can function without needing extra tools for assembly, like adhesives or fasteners. Their function relies on precise, intentional designs of joints. In fact, print-in-place methods can be used to create mechanical joints, specifically [vertical pin-and-socket hinges, horizontal teardrop hinges, and articulated chain links and captive ball-and-socket joints](https://www.sovol3d.com/blogs/news/print-in-place-3d-printing-how-to-design-hinges-joints-and-moving-parts-that-actually-work?srsltid=AU7gw4WqwzSwKkkUHQEHuxtbEeprpD8fcKD_IyCgyrs_g_O89oKhagXK). The combination of flexible and stiff materials can also be utilized to create movement in the model. Certain pairings can optimize multi-material printing, such as pairings chosen to minimize cross-material bonding like PETG and PLA.  In the case of the pliers, I chose to use PLA for my stiff elements and TPU for my flexible elements. 
----
+  Print-in-place models allow for parts with multiple moving components to be printed in one print bed. These models can function      without needing extra tools for assembly, like adhesives or fasteners. Their function relies on precise, intentional designs of       joints. In fact, print-in-place methods can be used to create mechanical joints, specifically [vertical pin-and-socket hinges,       horizontal teardrop hinges, and articulated chain links and captive ball-and-socket joints(https://www.sovol3d.com/blogs/news/print-in-place-3d-printing-how-to-design-hinges-joints-and-moving-parts-that-actually-work?srsltid=AU7gw4WqwzSwKkkUHQEHuxtbEeprpD8fcKD_IyCgyrs_g_O89oKhagXK). The combination of flexible and stiff materials can also be    utilized to create movement in the model. Certain pairings can optimize multi-material printing, such as pairings chosen to minimize cross-material bonding like PETG and PLA.  In the case of the pliers, I chose to use PLA for my stiff elements and TPU for my flexible elements. 
+--
 # Design and Iterative Process 
 
 # Specifications
-## Jaw measurements
-The specifications for my pliers were precision and usability: my goal was to be able to pick up small objects efficiently. This was tested by a 30 second trial where I would use my pliers to pick up through-hole resistors. Therefore, I decided to start small.
-The jaws are approximately 50 mm long, and can open up to 5.5 mm. The entire plier is roughly 100 mm long when resting.
+  The jaws are approximately 50 mm long, and can open up to 5.5 mm. The entire plier is roughly 100 mm long when resting.
 
 | Setting | PLA | TPU |
 |---|---:|---:|
 | Print width (mm) | 0.6 | 0.6 |
-| Bed temperature (°C) |  |  |
-| Print temperature (°C) |  |  |
-| Bottom and top solid layers |  |  |
+| Bed temperature (°C) | 65 | 60 |
+| Print temperature (°C) | 215 | 240 |
 | Infill (%) | 20 | 50 |
 | Infill pattern | Gyroid | Gyroid |
----
-
-# Arduino Code
-[Click to view Arduino code](https://github.com/Baileyzhu/Syringe_Pump_ArduinoCode/blob/main/Syringe_Pump_ArduinoCode.ino)
 
 ---
 
