@@ -6,18 +6,18 @@ header:
   teaser: assets/img/plier_final.jpeg
 gallery:
   - image_path: assets/img/plier_CAD_Assembly.png
-  - image_path: assets/img/Syringe_pump_wiring_diagram.png
-  - image_path: assets/img/syringe_pump_petgpartiers.png
+  - image_path: assets/img/plier_final.png
+  - image_path: assets/img/plier.gif
    
----
+
 # Introduction
  
 After plenty of experience 3D printing single-material models, the next step for me was to try out multi-material printing. A perk   of using multiple materials in the same model is a pairing of flexible and stiff material, which unlocks an abundance of new         possibilities for my prints. I was most interested in movement, specifically how multi-material methods could be used to make        functional moving parts. The result: a set of pliers, functional straight from the print bed without need for additional parts.      After all, what better way is there to use a tool (3D printing) than to make another tool (pliers)? 
---
+
 # Description
  
 Print-in-place models allow for parts with multiple moving components to be printed in one print bed. These models can function      without needing extra tools for assembly, like adhesives or fasteners. Their function relies on precise, intentional designs of       joints. In fact, print-in-place methods can be used to create mechanical joints, specifically [vertical pin-and-socket hinges,       horizontal teardrop hinges, and articulated chain links and captive ball-and-socket joints(https://www.sovol3d.com/blogs/news/print-in-place-3d-printing-how-to-design-hinges-joints-and-moving-parts-that-actually-work?srsltid=AU7gw4WqwzSwKkkUHQEHuxtbEeprpD8fcKD_IyCgyrs_g_O89oKhagXK). The combination of flexible and stiff materials can also be    utilized to create movement in the model. Certain pairings can optimize multi-material printing, such as pairings chosen to minimize cross-material bonding like PETG and PLA.  In the case of the pliers, I chose to use PLA for my stiff elements and TPU for my flexible elements. 
---
+
 # Design and Iterative Process 
 
 The specifications for my pliers were precision and usability: my goal was to be able to pick up small objects efficiently. This was tested by a 30 second trial where I would use my pliers to pick up through-hole resistors. Therefore, I decided to start small.
@@ -54,6 +54,10 @@ In the second and final iteration, I adjusted the fit of the TPU joints to bette
   <img src="images/plier_final.jpeg" width="500">
 </p>
 
+<p align="center">
+  <img src="images/plier.gif" width="500">
+</p>
+
 # Specifications
   The jaws are approximately 50 mm long, and can open up to 5.5 mm. The entire plier is roughly 100 mm long when resting.
 
@@ -65,20 +69,10 @@ In the second and final iteration, I adjusted the fit of the TPU joints to bette
 | Infill (%) | 20 | 50 |
 | Infill pattern | Gyroid | Gyroid |
 
----
+
 
 # Interactive CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b60281115024c78543613a4?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH90d2dQT28d5b602811edf85497d2772f0b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
----
+{% include gallery caption="Plier Gallery" %}
 
-# Operation Instructions
-  1. Plug the power supply into a 120V outlet to power the system.  
-  2. Press the latching button to activate the pump; the front panel LED will turn green to indicate it is running.  
-  3. Observe the fluid dispensing, and adjust the flow rate as needed via the potentiometer or by modifying the code variables.  
-  4. Press the latching button again to pause the pump (indicated by a yellow LED), or wait for the syringe to empty, which will trigger the limit switch and stop the motor automatically (indicated by a red LED).  
-  5. Press the latching button once more to turn off the pump, then reset the syringe to repeat the process.  
-
----
-
-{% include gallery caption="Syringe Pump Gallery" %}
