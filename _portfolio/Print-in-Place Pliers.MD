@@ -23,13 +23,13 @@ Print-in-place models allow for parts with multiple moving components to be prin
 The specifications for my pliers were precision and usability: my goal was to be able to pick up small objects efficiently. This was tested by a 30 second trial where I would use my pliers to pick up through-hole resistors. Therefore, I decided to start small.
 
 <p align="center">
-  <img src="images/through_hole_resistor.png" width="500">
+  <img src="assets/img/through_hole_resistor.png" width="500">
 </p>
 
 I aimed to make the pliers as small as possible—increasing precision, of course, but also maximizing portability and aesthetics. I based my design off an example shown in class: 
 
 <p align="center">
-  <img src="images/plier_example.jpg" width="500">
+  <img src="assets/img/plier_example.jpg" width="500">
 </p>
 
 The handle (in white) is made of PLA and is the stiff component. The ‘teeth’ of the pliers are made of PLU, and the flexible material along with the thin arcs filling the shape of each triangle allow for curved bending of the shape. When the PLA ‘lever’ (the white circle) is pulled, the deformation of the TPU pulls the tips of the triangles together, allowing the teeth to clamp shut. The issue encountered with this example, which is quite large (iPad case under plier for reference), is the teeth of the pliers were flimsy and would misalign vertically, meaning the teeth often wouldn’t meet nicely in the middle and a strong grip couldn’t be achieved. However, I liked the aesthetics of the design, and wondered if the imprecision could be remedied with a shorter length and a wider thickness. 
