@@ -8,7 +8,8 @@ gallery:
   - image_path: assets/img/plier_CAD_Assembly.png
   - image_path: assets/img/plier_final.png
   - image_path: assets/img/plier.gif
-   
+
+---
 
 # Introduction
  
@@ -60,7 +61,7 @@ In the second and final iteration, I adjusted the fit of the TPU joints to bette
 
 # Specifications
   The jaws are approximately 50 mm long, and can open up to 5.5 mm. The entire plier is roughly 100 mm long when resting.
-
+---
 | Setting | PLA | TPU |
 |---|---:|---:|
 | Print width (mm) | 0.6 | 0.6 |
@@ -68,7 +69,7 @@ In the second and final iteration, I adjusted the fit of the TPU joints to bette
 | Print temperature (°C) | 215 | 240 |
 | Infill (%) | 20 | 50 |
 | Infill pattern | Gyroid | Gyroid |
-
+---
 
 
 # Interactive CAD Model
