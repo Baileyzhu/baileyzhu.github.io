@@ -53,7 +53,9 @@ In the second and final iteration, I adjusted the fit of the TPU joints to bette
 
 
 # Specifications
-  The jaws are approximately 50 mm long, and can open up to 5.5 mm. The entire plier is roughly 100 mm long when resting.
+  
+The jaws are approximately 50 mm long, and can open up to 5.5 mm. The entire plier is roughly 100 mm long when resting.
+
 ---
 | Setting | PLA | TPU |
 |---|---:|---:|
