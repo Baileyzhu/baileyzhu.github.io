@@ -3,7 +3,7 @@ title: "Print-in-Place Pliers"
 excerpt: "Multi-material print-in-place pliers for small objects."
 header:
   image: assets/img/3D-printing-pliers.JPG
-  teaser: assets/img/plier_final.jpeg
+  teaser: assets/img/plier_final_horizontal.jpeg
 gallery:
   - image_path: assets/img/plier_CAD_Assembly.png
   - image_path: assets/img/plier_final.jpeg
