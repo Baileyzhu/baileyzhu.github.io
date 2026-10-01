@@ -56,7 +56,7 @@ In the second and final iteration, I adjusted the fit of the TPU joints to bette
   
 The jaws are approximately 50 mm long, and can open up to 5.5 mm. The entire plier is roughly 100 mm long when resting.
 
----
+
 | Setting | PLA | TPU |
 |---|---:|---:|
 | Print width (mm) | 0.6 | 0.6 |
@@ -64,7 +64,7 @@ The jaws are approximately 50 mm long, and can open up to 5.5 mm. The entire pli
 | Print temperature (°C) | 215 | 240 |
 | Infill (%) | 20 | 50 |
 | Infill pattern | Gyroid | Gyroid |
----
+
 
 
 # Interactive CAD Model
