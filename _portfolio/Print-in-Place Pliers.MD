@@ -6,7 +6,7 @@ header:
   teaser: assets/img/plier_final_horizontal.jpeg
 gallery:
   - image_path: assets/img/plier_CAD_Assembly.png
-  - image_path: assets/img/plier_final.jpeg
+  - image_path: assets/img/plier_first_try.jpeg
   - image_path: assets/img/plier.gif
 
 ---
@@ -41,15 +41,15 @@ The handle (in white) is made of PLA and is the stiff component. The ‘teeth’
 
 I used the lab’s single-extrusion Voron 3D printers to create my piece, so the TPU and PLA parts were printed separately and assembled via hand-pressing the mechanical joints together. My first iteration was essentially a test to see if they would function as intended and check tolerances, because I couldn’t design the joints in Fusion360 to demonstrate the flexing. Though the joints didn’t fit because I didn’t leave enough clearance, I was able to determine that the mechanism worked as intended. 
 
-  <img src="/assets/img/plier_first_try.jpeg" width="500">
+  <img src="/assets/img/plier_first_try.jpeg" width="300">
 
 
 In the second and final iteration, I adjusted the fit of the TPU joints to better fit the PLA joints. Additionally, I added 50% infill in SuperSlicer to help prevent the TPU from sagging from bridging and make the grabbers more sturdy. The result was an efficient and precise plier. 
 
-  <img src="/assets/img/plier_final.jpeg" width="500">
+  <img src="/assets/img/plier_final.jpeg" width="300">
 
 
-  <img src="/assets/img/plier.gif" width="500">
+  <img src="/assets/img/plier.gif" width="300">
 
 
 # Specifications
