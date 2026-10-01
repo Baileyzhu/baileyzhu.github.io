@@ -23,7 +23,7 @@ Print-in-place models allow for parts with multiple moving components to be prin
 
 The specifications for my pliers were precision and usability: my goal was to be able to pick up small objects efficiently. This was tested by a 30 second trial where I would use my pliers to pick up through-hole resistors. Therefore, I decided to start small.
 
-<img src="/assets/img/through_hole_resistor.png" alt="Through-hole resistor" width="400">
+<img src="/assets/img/through_hole_resistor.png" alt="Through-hole resistor" width="200">
 
 I aimed to make the pliers as small as possible—increasing precision, of course, but also maximizing portability and aesthetics. I based my design off an example shown in class: 
 
