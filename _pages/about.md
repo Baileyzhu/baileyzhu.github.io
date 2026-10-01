@@ -6,7 +6,7 @@ title: "About Bailey Zhu"
 
 ## Education
 
-Bailey is always outfitted with new subjects of interest. She is currently trying on additive manufacturing, boxing, and oral surgery. 
+Bailey is always outfitted with new subjects of interest. She is currently trying on additive manufacturing, boxing, and lead climbing. 
 
 * Vanderbilt University
   * BA in Medicine, Health and Society
